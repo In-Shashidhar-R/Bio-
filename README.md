@@ -25,3 +25,12 @@ a model’s performance using various metrics, such as recall,
 accuracy, and F1 score, to obtain a clear and detailed view
 of predictive capability.Finally, these metrics are then used to
 predict positive CVD cases
+
+# Result
+
+While comparing a few Machine Learning Algorithms such as KNN, Naive Bayes, SVM, and Logistic Regression. KNN outperforms all other algorithms and gives the result with high accuracy. 
+
+![newplot](https://github.com/In-Shashidhar-R/Bio/assets/127376016/026fabff-adf6-449c-a05b-809340f1fa4f)
+
+![Overall accuracy](https://github.com/In-Shashidhar-R/Bio/assets/127376016/59e26586-de17-4aee-a434-ed7e8b4fa392)
+
